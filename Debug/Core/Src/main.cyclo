@@ -1,0 +1,11 @@
+main.c:80:5:RandomInt	1
+main.c:85:6:PowerIMUOn	1
+main.c:90:9:GetIMUAccelX	1
+main.c:103:5:DetectCardShake	2
+main.c:113:5:VerifyIMU	2
+main.c:125:6:OneHotEncodeLED	11
+main.c:188:5:main	4
+main.c:248:6:SystemClock_Config	4
+main.c:291:13:MX_I2C1_Init	4
+main.c:339:13:MX_GPIO_Init	1
+main.c:401:6:Error_Handler	1
